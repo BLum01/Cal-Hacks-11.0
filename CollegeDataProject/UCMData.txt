@@ -1,0 +1,15 @@
+Broad discipline	College/School 	Major name	Admit GPA range	Admit rate	Enroll GPA range	Yield rate	Admits	Applicants	Enrolls
+Arts & Humanities	Not applicable	Literatures in english	3.12 - 3.62	0.705882353	masked	0.066666667	60	85	4
+Business	Not applicable	Management and business economics	3.10 - 3.77	0.659016393	2.75 - 3.80	0.044776119	201	305	9
+Engineering	Not applicable	Civil engineering	3.21 - 3.58	0.739130435	masked	0.058823529	51	69	3
+Engineering	Not applicable	Computer science & engineering	3.36 - 3.84	0.396061269	3.23 - 3.47	0.099447514	181	457	18
+Engineering	Not applicable	Mechanical engineering	3.11 - 3.66	0.636363636	3.08 - 3.44	0.173469388	98	154	17
+Life Sciences	Not applicable	Biological sciences	3.16 - 3.73	0.408839779	3.16 - 3.81	0.087837838	148	362	13
+Other/Interdisciplinary	Not applicable	Cognitive science	3.02 - 3.85	0.75	masked	0.111111111	36	48	4
+Physical Sciences/Math	Not applicable	Applied mathematics	3.27 - 3.69	0.582802548	3.02 - 3.62	0.054644809	183	314	10
+Public Health	Not applicable	Public health	3.18 - 3.67	0.666666667	2.89 - 3.55	0.092105263	76	114	7
+Social Sciences	Not applicable	Economics	3.30 - 3.81	0.702702703	masked	0.019230769	156	222	3
+Social Sciences	Not applicable	Psychology	3.18 - 3.76	0.836538462	2.97 - 3.54	0.108045977	435	520	47
+Social Sciences	Not applicable	Sociology	3.07 - 3.73	0.753164557	3.01 - 3.51	0.084033613	119	158	10
+Undeclared	Not applicable	Undeclared	3.08 - 3.69	0.910256410	3.01 - 3.57	0.094567404	497	546	47
+Unknown	Not applicable	Invalid ccm combination	3.12 - 3.78	0.619047619	masked	0.057692308	52	84	3

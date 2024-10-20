@@ -1,0 +1,78 @@
+Broad discipline	College/School 	Major name	Admit GPA range	Admit rate	Enroll GPA range	Yield rate	Admits	Applicants	Enrolls
+Architecture	College Of Agric & environ sciences	Pre-landscape architecture	3.30 - 3.84	0.703296703	3.20 - 3.68	0.296875	64	91	19
+Arts & Humanities	College Of Letters & science	Art - studio	3.40 - 3.91	0.781954887	3.38 - 3.92	0.240384615	104	133	25
+Arts & Humanities	College Of Letters & science	Art history	3.42 - 3.80	0.849056604	3.56 - 3.75	0.111111111	45	53	5
+Arts & Humanities	College Of Letters & science	Cinema and digital media	3.40 - 3.79	0.683908046	3.26 - 3.62	0.126050420	119	174	15
+Arts & Humanities	College Of Letters & science	Design	3.47 - 3.92	0.736842105	3.47 - 3.89	0.529761905	168	228	89
+Arts & Humanities	College Of Letters & science	English	3.37 - 3.89	0.806451613	3.39 - 3.86	0.172	250	310	43
+Arts & Humanities	College Of Letters & science	History	3.44 - 3.89	0.765853659	3.22 - 3.93	0.210191083	157	205	33
+Arts & Humanities	College Of Letters & science	Japanese	3.15 - 3.81	0.851851852	masked	0.130434783	23	27	3
+Arts & Humanities	College Of Letters & science	Linguistics	3.51 - 3.99	0.818181818	3.38 - 3.71	0.166666667	54	66	9
+Arts & Humanities	College Of Letters & science	Music	3.47 - 3.91	0.575	masked	0.173913043	23	40	4
+Arts & Humanities	College Of Letters & science	Philosophy	3.30 - 3.87	0.740740741	3.40 - 3.89	0.116666667	120	162	14
+Arts & Humanities	College Of Letters & science	Theatre and dance	3.32 - 3.85	0.74	3.34 - 3.46	0.162162162	37	50	6
+Business	College Of Agric & environ sciences	Managerial economics	3.47 - 3.91	0.698360656	3.35 - 3.78	0.241784038	426	610	103
+Computer Science	College Of Letters & science	Computer science	3.72 - 3.96	0.451730419	3.63 - 3.87	0.3125	496	1098	155
+Education	College Of Agric & environ sciences	Agricultural and environmental education	3.15 - 3.81	0.622641509	3.13 - 3.62	0.393939394	33	53	13
+Engineering	College Of Agric & environ sciences	Agricultural and environmental technology	3.53 - 3.83	0.458333333	masked	0.272727273	11	24	3
+Engineering	College Of Engineering	Aerospace science and engineering	3.55 - 3.85	0.252032520	3.55 - 4.00	0.483870968	31	123	15
+Engineering	College Of Engineering	Biomedical engineering	3.54 - 3.93	0.261363636	masked	0.173913043	23	88	4
+Engineering	College Of Engineering	Chemical engineering	3.43 - 3.86	0.414285714	3.58 - 3.75	0.206896552	29	70	6
+Engineering	College Of Engineering	Civil engineering	3.55 - 3.81	0.345945946	3.55 - 3.74	0.359375	64	185	23
+Engineering	College Of Engineering	Computer engineering	3.60 - 3.95	0.366013072	3.74 - 3.92	0.214285714	56	153	12
+Engineering	College Of Engineering	Computer science & engineering	3.66 - 3.91	0.157676349	3.71 - 3.84	0.342105263	76	482	26
+Engineering	College Of Engineering	Engineering	3.52 - 3.92	0.492146597	3.40 - 3.80	0.202127660	94	191	19
+Engineering	College Of Engineering	Environmental engineering	3.48 - 3.93	0.5	3.62 - 3.73	0.384615385	13	26	5
+Engineering	College Of Engineering	Materials science	3.44 - 3.85	0.434782609	masked	0.4	10	23	4
+Engineering	College Of Engineering	Mechanical engineering	3.55 - 3.89	0.325062035	3.52 - 3.82	0.305343511	131	403	40
+Life Sciences	College Of Agric & environ sciences	Animal biology	3.19 - 3.83	0.709302326	3.13 - 3.76	0.622950820	61	86	38
+Life Sciences	College Of Agric & environ sciences	Animal sciences	3.19 - 3.68	0.707207207	3.16 - 3.65	0.707006369	157	222	111
+Life Sciences	College Of Agric & environ sciences	Biotechnology	3.54 - 3.88	0.652173913	3.52 - 3.86	0.666666667	30	46	20
+Life Sciences	College Of Agric & environ sciences	Entomology	3.14 - 3.59	0.777777778	3.33 - 3.65	0.714285714	7	9	5
+Life Sciences	College Of Agric & environ sciences	Environ policy analysis & planning	3.44 - 3.82	0.704918033	3.38 - 3.87	0.302325581	43	61	13
+Life Sciences	College Of Agric & environ sciences	Environmental science and management	3.22 - 3.77	0.761904762	3.19 - 3.73	0.3828125	128	168	49
+Life Sciences	College Of Agric & environ sciences	Environmental toxicology	3.23 - 3.35	0.411764706	masked	0.571428571	7	17	4
+Life Sciences	College Of Agric & environ sciences	Food science	3.28 - 3.89	0.666666667	3.16 - 3.81	0.55	20	30	11
+Life Sciences	College Of Agric & environ sciences	Global disease biology	3.13 - 3.57	0.848101266	3.07 - 3.52	0.582089552	67	79	39
+Life Sciences	College Of Agric & environ sciences	Plant sciences	3.31 - 3.81	0.711538462	3.31 - 3.80	0.675675676	37	52	25
+Life Sciences	College Of Agric & environ sciences	Sustainable environmental design	3.50 - 3.90	0.767441860	3.67 - 3.89	0.424242424	33	43	14
+Life Sciences	College Of Agric & environ sciences	Viticulture & enology	3.35 - 3.56	0.642857143	3.34 - 3.52	0.888888889	9	14	8
+Life Sciences	College Of Agric & environ sciences	Wildlife, fish & conservation biology	3.11 - 3.61	0.705882353	3.13 - 3.59	0.541666667	24	34	13
+Life Sciences	College Of Biological sciences	Biochemistry- molecular biology	3.51 - 3.91	0.600660066	3.37 - 3.91	0.307692308	182	303	56
+Life Sciences	College Of Biological sciences	Biological sciences	3.41 - 3.81	0.584038694	3.40 - 3.78	0.343685300	483	827	166
+Life Sciences	College Of Biological sciences	Cell biology	3.47 - 3.83	0.589285714	masked	0.121212121	33	56	4
+Life Sciences	College Of Biological sciences	Evolution, ecology & biodiversity	3.34 - 3.65	0.583333333	3.19 - 3.65	0.476190476	21	36	10
+Life Sciences	College Of Biological sciences	Genetics and genomics	3.35 - 3.86	0.589743590	2.96 - 3.57	0.304347826	23	39	7
+Life Sciences	College Of Biological sciences	Molecular & medical microbiology	3.48 - 3.85	0.588652482	3.28 - 3.69	0.289156627	83	141	24
+Life Sciences	College Of Biological sciences	Neurobiology, physiology, & behavior	3.45 - 3.87	0.558139535	3.41 - 3.78	0.283333333	120	215	34
+Life Sciences	College Of Biological sciences	Plant biology	3.31 - 4.00	0.466666667	masked	0.428571429	7	15	3
+Other Health Science	College Of Letters & science	Pharmaceutical chemistry	3.51 - 3.85	0.476190476	3.18 - 3.56	0.3	20	42	6
+Other/Interdisciplinary	College Of Agric & environ sciences	Clinical nutrition	3.29 - 3.83	0.722222222	3.29 - 3.69	0.557692308	52	72	29
+Other/Interdisciplinary	College Of Agric & environ sciences	International agricultural development	3.51 - 3.85	0.833333333	3.39 - 3.75	0.6	10	12	6
+Other/Interdisciplinary	College Of Agric & environ sciences	Marine and coastal science	3.20 - 3.88	0.588235294	masked	0.3	10	17	3
+Other/Interdisciplinary	College Of Agric & environ sciences	Nutritional science	3.29 - 3.78	0.691176471	3.07 - 3.78	0.446808511	47	68	21
+Other/Interdisciplinary	College Of Agric & environ sciences	Sustainable agriculture and food systems	3.44 - 3.86	0.607142857	3.39 - 3.86	0.529411765	17	28	9
+Other/Interdisciplinary	College Of Biological sciences	Marine and coastal science	3.56 - 3.93	0.421052632	3.48 - 3.75	0.625	8	19	5
+Other/Interdisciplinary	College Of Letters & science	Cognitive science	3.39 - 3.85	0.827004219	3.27 - 3.79	0.244897959	196	237	48
+Other/Interdisciplinary	College Of Letters & science	Communication	3.37 - 3.90	0.769867550	3.31 - 3.81	0.176344086	465	604	82
+Other/Interdisciplinary	College Of Letters & science	Data science	3.62 - 3.95	0.613821138	3.41 - 3.78	0.139072848	151	246	21
+Other/Interdisciplinary	College Of Letters & science	Science & technology studies	3.28 - 3.64	0.857142857	3.17 - 3.53	0.416666667	12	14	5
+Physical Sciences/Math	College Of Letters & science	Applied mathematics	3.47 - 3.90	0.695945946	3.42 - 3.86	0.097087379	103	148	10
+Physical Sciences/Math	College Of Letters & science	Applied physics	3.34 - 3.73	0.636363636	3.15 - 3.90	0.285714286	21	33	6
+Physical Sciences/Math	College Of Letters & science	Chemistry	3.27 - 3.84	0.818840580	3.09 - 3.54	0.292035398	113	138	33
+Physical Sciences/Math	College Of Letters & science	Geology	3.40 - 3.83	0.793103448	3.42 - 3.78	0.260869565	23	29	6
+Physical Sciences/Math	College Of Letters & science	Mathematics	3.51 - 3.88	0.704225352	3.55 - 3.79	0.15	100	142	15
+Physical Sciences/Math	College Of Letters & science	Physics	3.41 - 3.90	0.606557377	3.09 - 3.68	0.162162162	37	61	6
+Physical Sciences/Math	College Of Letters & science	Statistics	3.45 - 3.91	0.882716049	3.35 - 3.83	0.265734266	143	162	38
+Public Admin	College Of Agric & environ sciences	Community & regional development	3.35 - 3.92	0.743589744	3.43 - 3.72	0.310344828	29	39	9
+Social Sciences	College Of Agric & environ sciences	Human development	3.29 - 3.83	0.733695652	3.19 - 3.81	0.525925926	135	184	71
+Social Sciences	College Of Letters & science	Anthropology	3.28 - 3.87	0.823863636	3.24 - 3.62	0.193103448	145	176	28
+Social Sciences	College Of Letters & science	Economics	3.51 - 3.91	0.748397436	3.25 - 3.75	0.162740899	934	1248	152
+Social Sciences	College Of Letters & science	Gender, sexuality, and women's studies	3.20 - 3.80	0.657142857	masked	0.173913043	23	35	4
+Social Sciences	College Of Letters & science	International relations	3.36 - 3.83	0.795918367	3.06 - 3.63	0.153846154	117	147	18
+Social Sciences	College Of Letters & science	Political science	3.38 - 3.91	0.835758836	3.21 - 3.68	0.201492537	402	481	81
+Social Sciences	College Of Letters & science	Political science - public service	3.35 - 3.88	0.813953488	3.25 - 3.62	0.190476190	105	129	20
+Social Sciences	College Of Letters & science	Psychology	3.50 - 3.90	0.697937458	3.39 - 3.85	0.331744519	1049	1503	348
+Social Sciences	College Of Letters & science	Sociology	3.36 - 3.84	0.803339518	3.28 - 3.76	0.177829099	433	539	77
+Social Sciences	College Of Letters & science	Sociology/organizational studies	3.28 - 3.79	0.735849057	3.09 - 3.48	0.128205128	78	106	10
+Undeclared	College Of Agric & environ sciences	Undeclared/exploratory agricultural science	3.24 - 3.79	0.302702703	3.05 - 3.66	0.410714286	56	185	23

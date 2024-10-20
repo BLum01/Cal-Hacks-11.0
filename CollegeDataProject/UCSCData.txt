@@ -1,0 +1,44 @@
+Broad discipline	College/School 	Major name	Admit GPA range	Admit rate	Enroll GPA range	Yield rate	Admits	Applicants	Enrolls
+Arts & Humanities	Not applicable	Art	3.15 - 3.82	0.817777778	3.33 - 3.88	0.163043478	184	225	30
+Arts & Humanities	Not applicable	Art and design: games and playable media	3.15 - 3.80	0.469230769	3.13 - 3.78	0.655737705	61	130	40
+Arts & Humanities	Not applicable	Art history	2.98 - 3.86	0.789473684	2.68 - 2.89	0.111111111	45	57	5
+Arts & Humanities	Not applicable	Film and digital media	3.20 - 3.81	0.780172414	2.97 - 3.75	0.135359116	362	464	49
+Arts & Humanities	Not applicable	History	3.04 - 3.85	0.837606838	2.79 - 3.65	0.158163265	196	234	31
+Arts & Humanities	Not applicable	Literature	3.21 - 3.84	0.825	3.02 - 3.67	0.113636364	264	320	30
+Arts & Humanities	Not applicable	Music	3.13 - 3.69	0.626865672	2.89 - 3.50	0.285714286	42	67	12
+Arts & Humanities	Not applicable	Philosophy	2.91 - 3.71	0.809210526	2.52 - 3.30	0.113821138	123	152	14
+Arts & Humanities	Not applicable	Spanish studies	3.15 - 3.80	0.780487805	masked	0.09375	32	41	3
+Arts & Humanities	Not applicable	Theater arts	3.23 - 3.79	0.813953488	3.10 - 3.67	0.071428571	70	86	5
+Business	Not applicable	Business management - economics	3.28 - 3.87	0.625121714	3.05 - 3.61	0.115264798	642	1027	74
+Computer Science	Not applicable	Computer science	3.56 - 3.93	0.518867925	3.33 - 3.79	0.218181818	605	1166	132
+Computer Science	Not applicable	Computer science: computer game design	3.18 - 3.75	0.549132948	3.16 - 3.70	0.526315789	95	173	50
+Computer Science	Not applicable	Technology and information management	3.45 - 3.93	0.55	2.85 - 3.44	0.151515152	33	60	5
+Education	Not applicable	Education, democracy, and justice	3.22 - 3.76	1	3.32 - 3.77	0.75	12	12	9
+Engineering	Not applicable	Computer engineering	3.29 - 3.82	0.702811245	3.03 - 3.69	0.177142857	175	249	31
+Engineering	Not applicable	Electrical engineering	3.29 - 3.82	0.600985222	3.18 - 3.54	0.098360656	122	203	12
+Engineering	Not applicable	Robotics engineering bs	3.33 - 3.79	0.5078125	3.11 - 3.68	0.230769231	65	128	15
+Life Sciences	Not applicable	Biochemistry- molecular biology	3.22 - 3.81	0.601503759	2.81 - 3.22	0.1125	80	133	9
+Life Sciences	Not applicable	Biology	3.19 - 3.71	0.482926829	2.82 - 3.44	0.104377104	297	615	31
+Life Sciences	Not applicable	Biotechnology	2.98 - 3.58	1	masked	0.8	5	5	4
+Life Sciences	Not applicable	Ecology & evolution	3.11 - 3.70	0.721311475	3.13 - 3.65	0.318181818	44	61	14
+Life Sciences	Not applicable	Environmental studies	3.20 - 3.78	0.620967742	3.13 - 3.64	0.389610390	77	124	30
+Life Sciences	Not applicable	Marine biology	3.09 - 3.64	0.513513514	2.83 - 3.43	0.157894737	57	111	9
+Life Sciences	Not applicable	Molecular, cell, & developmental biology	3.30 - 3.84	0.638554217	3.08 - 3.60	0.113207547	53	83	6
+Life Sciences	Not applicable	Neuroscience	3.20 - 3.76	0.444444444	3.17 - 3.93	0.136363636	44	99	6
+Other Health Science	Not applicable	Global and community health	3.07 - 3.83	0.954545455	2.91 - 3.71	0.666666667	21	22	14
+Other/Interdisciplinary	Not applicable	Cognitive science	3.19 - 3.80	0.603174603	2.79 - 3.54	0.144736842	76	126	11
+Other/Interdisciplinary	Not applicable	Legal studies	3.08 - 3.78	0.771428571	2.84 - 3.33	0.092592593	108	140	10
+Physical Sciences/Math	Not applicable	Chemistry	3.13 - 3.88	0.571428571	2.87 - 3.77	0.15625	64	112	10
+Physical Sciences/Math	Not applicable	Earth science	3.05 - 3.70	0.912280702	2.89 - 3.46	0.230769231	104	114	24
+Physical Sciences/Math	Not applicable	Mathematics	3.11 - 3.87	0.807909605	2.86 - 3.25	0.090909091	143	177	13
+Physical Sciences/Math	Not applicable	Physics	2.97 - 3.79	0.716417910	3.00 - 3.39	0.229166667	48	67	11
+Public Admin	Not applicable	Community studies	3.23 - 3.77	0.818181818	3.00 - 3.58	0.1	90	110	9
+Social Sciences	Not applicable	Anthropology	3.10 - 3.74	0.834101382	2.79 - 3.90	0.138121547	181	217	25
+Social Sciences	Not applicable	Earth science/anthropology	2.78 - 3.59	1	2.85 - 3.70	0.833333333	6	6	5
+Social Sciences	Not applicable	Economics	3.23 - 3.82	0.769825919	2.81 - 3.47	0.060301508	398	517	24
+Social Sciences	Not applicable	Politics	3.12 - 3.80	0.837563452	3.01 - 3.62	0.1	330	394	33
+Social Sciences	Not applicable	Psychology	3.25 - 3.85	0.500728863	3.20 - 3.78	0.208151383	687	1372	143
+Social Sciences	Not applicable	Sociology	3.16 - 3.75	0.757194245	3.04 - 3.58	0.125890736	421	556	53
+Social Sciences	Not applicable	Women's studies	2.91 - 3.73	0.866666667	masked	0.153846154	26	30	4
+Undeclared	Not applicable	Undeclared	3.26 - 3.79	0.478448276	3.12 - 3.74	0.171171171	111	232	19
+Unknown	Not applicable	Invalid ccm combination	3.27 - 3.83	0.523809524	3.25 - 3.63	0.090909091	275	525	25

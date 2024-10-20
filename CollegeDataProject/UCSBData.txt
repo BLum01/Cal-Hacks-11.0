@@ -1,0 +1,40 @@
+Broad discipline	College/School 	Major name	Admit GPA range	Admit rate	Enroll GPA range	Yield rate	Admits	Applicants	Enrolls
+Arts & Humanities	College Of Letters & science	Art - studio	3.35 - 3.93	0.787564767	3.35 - 3.88	0.223684211	152	193	34
+Arts & Humanities	College Of Letters & science	Art history	3.48 - 3.91	0.666666667	3.50 - 3.85	0.102272727	88	132	9
+Arts & Humanities	College Of Letters & science	English	3.39 - 3.89	0.766292135	3.29 - 3.75	0.108504399	341	445	37
+Arts & Humanities	College Of Letters & science	Film studies	3.46 - 3.88	0.623456790	3.39 - 3.79	0.221122112	303	486	67
+Arts & Humanities	College Of Letters & science	History	3.50 - 3.93	0.705705706	3.35 - 3.85	0.110638298	235	333	26
+Arts & Humanities	College Of Letters & science	History of public policy and law	3.34 - 3.87	0.630434783	masked	0.137931034	29	46	4
+Arts & Humanities	College Of Letters & science	Japanese	3.35 - 3.90	0.806451613	masked	0.12	25	31	3
+Arts & Humanities	College Of Letters & science	Linguistics	3.53 - 4.00	0.651162791	3.24 - 3.77	0.214285714	84	129	18
+Arts & Humanities	College Of Letters & science	Music	3.44 - 3.76	0.380952381	masked	0.166666667	24	63	4
+Arts & Humanities	College Of Letters & science	Philosophy	3.41 - 3.90	0.720338983	3.09 - 3.56	0.1	170	236	17
+Arts & Humanities	College Of Letters & science	Spanish	3.49 - 3.84	0.745454545	masked	0.097560976	41	55	4
+Arts & Humanities	College Of Letters & science	Theater	3.41 - 3.88	0.635593220	3.31 - 3.80	0.133333333	75	118	10
+Business	College Of Letters & science	Actuarial science	3.48 - 3.94	0.78	3.18 - 3.85	0.256410256	39	50	10
+Computer Science	College Of Engineering	Computer science	3.93 - 4.00	0.122590594	3.75 - 4.00	0.075471698	159	1297	12
+Engineering	College Of Engineering	Chemical engineering	3.61 - 3.89	0.197986577	3.55 - 3.80	0.220338983	118	596	26
+Engineering	College Of Engineering	Computer engineering	3.71 - 3.95	0.280788177	masked	0.070175439	57	203	4
+Engineering	College Of Engineering	Electrical engineering	3.62 - 3.97	0.40625	3.74 - 3.94	0.109890110	91	224	10
+Life Sciences	College Of Letters & science	Biological sciences	3.46 - 3.88	0.451550388	3.37 - 3.81	0.145922747	699	1548	102
+Life Sciences	College Of Letters & science	Environmental studies	3.34 - 3.81	0.740157480	3.34 - 3.75	0.319148936	188	254	60
+Other/Interdisciplinary	College Of Letters & science	Communication studies	3.41 - 3.90	0.709219858	3.33 - 3.81	0.364	1000	1410	364
+Other/Interdisciplinary	College Of Letters & science	Global studies	3.30 - 3.89	0.722488038	3.28 - 3.76	0.105960265	151	209	16
+Physical Sciences/Math	College Of Letters & science	Applied mathematics	3.54 - 3.94	0.859030837	3.36 - 4.00	0.046153846	195	227	9
+Physical Sciences/Math	College Of Letters & science	Chemistry	3.38 - 3.88	0.763157895	3.31 - 3.64	0.130268199	261	342	34
+Physical Sciences/Math	College Of Letters & science	Financial mathematics & statistics	3.57 - 3.95	0.7125	3.40 - 3.60	0.228070175	57	80	13
+Physical Sciences/Math	College Of Letters & science	Geology	3.29 - 3.82	0.658536585	3.08 - 3.56	0.296296296	54	82	16
+Physical Sciences/Math	College Of Letters & science	Mathematics	3.49 - 3.90	0.657480315	3.49 - 3.81	0.065868263	167	254	11
+Physical Sciences/Math	College Of Letters & science	Physics	3.72 - 4.00	0.341085271	3.56 - 3.96	0.136363636	44	129	6
+Physical Sciences/Math	College Of Letters & science	Statistics and data science	3.54 - 3.94	0.874439462	3.26 - 3.70	0.150427350	585	669	88
+Social Sciences	College Of Letters & science	Anthropology	3.30 - 3.89	0.727868852	3.21 - 3.70	0.180180180	222	305	40
+Social Sciences	College Of Letters & science	Biopsychology	3.40 - 3.88	0.807377049	3.36 - 3.92	0.182741117	197	244	36
+Social Sciences	College Of Letters & science	Chicano studies	3.35 - 3.81	0.5	masked	0.285714286	14	28	4
+Social Sciences	College Of Letters & science	Economics	3.53 - 3.92	0.617599131	3.44 - 3.83	0.199648197	1137	1841	227
+Social Sciences	College Of Letters & science	Economics and accounting	3.58 - 3.94	0.639889197	3.39 - 3.85	0.174603175	693	1083	121
+Social Sciences	College Of Letters & science	Feminist studies	3.52 - 3.85	0.615384615	masked	0.125	24	39	3
+Social Sciences	College Of Letters & science	Geography	3.41 - 3.93	0.671428571	3.33 - 3.61	0.340425532	47	70	16
+Social Sciences	College Of Letters & science	Physical geography	3.25 - 3.75	0.833333333	masked	0.4	10	12	4
+Social Sciences	College Of Letters & science	Political science	3.44 - 3.91	0.758101852	3.24 - 3.68	0.109923664	655	864	72
+Social Sciences	College Of Letters & science	Psychological and brain science	3.39 - 3.87	0.717656631	3.25 - 3.75	0.229024943	882	1229	202
+Social Sciences	College Of Letters & science	Sociology	3.43 - 3.91	0.750689972	3.21 - 3.78	0.185049020	816	1087	151
